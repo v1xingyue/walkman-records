@@ -14,6 +14,6 @@ $TTL	60
 @	IN	A	127.0.0.1
 
 www IN CNAME www.hnsfans.com.
-get IN CNAME v1xingyue.github.io.
+get IN A 76.76.21.21
 test IN A 8.210.222.44
 
