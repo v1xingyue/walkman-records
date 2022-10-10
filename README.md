@@ -1,5 +1,7 @@
 # Handshake name walkman/ Name records database
 
+
+
 A: Hi, do you want your own walkman?
 
 B: Yes, Of cause. I must have my own walkman. I want to put all my record decentralized.  
@@ -28,3 +30,7 @@ A: When will this record synced.
 
 B: It will sync every 5 minutes. Just wait patiently.
 
+## About me: 
+* [My Twitter](https://twitter.com/v1xingyue)
+* [My github](https://github.com/v1xingyue)
+* [Donate Some HNS](hs1q99wz4cjxcswygz76h6tshgfkge5mwa0p7x9djn)
