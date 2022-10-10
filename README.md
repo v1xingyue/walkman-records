@@ -24,11 +24,10 @@ B: Will you stop or change it.
 
 A: No. I will keep this running, unitl some error I can't deal. 
 
-B: OK. I'll take one. 
+B: OK. I'll take one. When will this record synced. 
 
-A: When will this record synced. 
+A: It will sync every 5 minutes. Just wait patiently. Have a nice walkman world with Handshake. 
 
-B: It will sync every 5 minutes. Just wait patiently.
 
 ## About me: 
 * [My Twitter](https://twitter.com/v1xingyue)
