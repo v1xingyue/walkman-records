@@ -33,4 +33,4 @@ B: It will sync every 5 minutes. Just wait patiently.
 ## About me: 
 * [My Twitter](https://twitter.com/v1xingyue)
 * [My github](https://github.com/v1xingyue)
-* [hs1q99wz4cjxcswygz76h6tshgfkge5mwa0p7x9djn](https://e.hnsfans.com/address/hs1q99wz4cjxcswygz76h6tshgfkge5mwa0p7x9djn)
+* Donate Some HNS with my server running : [hs1q99wz4cjxcswygz76h6tshgfkge5mwa0p7x9djn](https://e.hnsfans.com/address/hs1q99wz4cjxcswygz76h6tshgfkge5mwa0p7x9djn)
